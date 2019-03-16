@@ -1,0 +1,2 @@
+# Classification-PYthon
+Classification is a large domain in the field of statistics and machine learning. Generally, classification can be broken down into two areas:  Binary classification, where we wish to group an outcome into one of two groups.  Multi-class classification, where we wish to group an outcome into one of multiple (more than two) groups.  In this post, the main focus will be on using a variety of classification algorithms across both of these domains, less emphasis will be placed on the theory behind them.
